@@ -1,0 +1,25 @@
+Expert Agent source release
+===========================
+
+This file contains the following sections:
+
+GENERAL NOTES
+LICENSE
+
+GENERAL NOTES
+=============
+
+The main aim of this project was to develop an expert agent for Unreal 
+Tournament 2004 that was capable of beating native bots.
+
+A Finite State Machine comprised of primary and secondary states is controlled
+by the set of rules defined by us.
+
+The project is based on Java/Pogamut/Unreal Tournament 2004.
+
+The current version is 0.1 (Alpha state).
+
+LICENSE
+=======
+
+See LICENSE.txt for the GNU GENERAL PUBLIC LICENSE
